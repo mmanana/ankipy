@@ -1,0 +1,13 @@
+#deck column:17
+#separator:Semicolon
+#notetype:Basic_Image_several_answers
+#columns:slide;pregunta;imagen_frontal;respuesta;imagen_respuesta;r1;r2;r3;r4;r5;r6;r7;r8;r9;r10;tags;deck
+#tags column:16
+#html:true
+intro.1;Unidad de la potencia activa;  ;vatio (en inglés watt), expresado con el símbolo <b>W</b>;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;#intro;G822::Tema2
+intro.2;Unidad de la potencia reactiva;  ;voltiamperio reactivo (en inglés reactive volt-ampere), expresado con el símbolo <b>var</b>;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;#intro;G822::Tema2
+ca.1;¿A qué frecuencia se denomina <b>de marcha industrial</b> en España?;  ;50 Hz;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;#ca;G822::Tema1
+trifasica.1;¿En un sistema trifásico equilibrado en tension la relación del módulo y la fase entre la tensión de fase y de línea es?;  ;[latex]$ \frac{U_{linea}}{U_{fase}} =\sqrt[3]{3} $[/latex]. Secuencia directa 30 grados en adelanto. Secuencia inversa 30 grados en retraso. ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;#trifasica;G822::Tema3
+trifasica.2;⁠¿En un sistema trifásico equilibrado la relación del módulo y la fase entre la tensión de fase y de línea es?;  ;[latex]$ \frac{U_{linea}}{U_{fase}} =\sqrt[3]{3} $[/latex]. Secuencia directa 30 grados en adelanto. Secuencia inversa 30 grados en retraso. ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;#trifasica;G822::Tema3
+trifasica.3;¿En un sistema trifásico desequilibrado la relación del módulo y la fase entre la tensión de fase y de línea es?;  ;⁠No existe una relación unica y depende del desequilibrio;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;#trifasica;G822::Tema3
+trifasica.4;¿En qué casos de un sistema trifásico con el receptor en estrella la corriente a través del neutro es cero?;  ;Sistema trifasico a 3 hilos, sistema trifasico equilibrado a 4 hilos sin impedancia de neutro y sistema trifasico equilibrado a 4 hilos con impedancia de neutro ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;#trifasica;G822::Tema3
