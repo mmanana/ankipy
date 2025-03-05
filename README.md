@@ -23,5 +23,6 @@ Raquel Martínez
 Sergio Bustamante
 Eugenio Sainz
 
-Department of Electrical and Energy Engineering
+Department of Electrical and Energy Engineering    
+
 <img src="./images/UC_logo.png" alt="UC Logo" width="200">
