@@ -1,4 +1,4 @@
-Python Library for Creating and Managing Anki Decks
+# Python Library for Creating and Managing Anki Decks
 
 
 This notebook is dedicated to the collaborative creation of Anki decks using an Excel file.
@@ -15,4 +15,4 @@ Step-by-Step Procedure:
 This project is partially funded by the Universidad de Cantabria (Programa de Proyectos de Innovación Docente).
 
 
-# ![Universidad de Cantabria](docs/images/UC_logo.png)
+# ![](./images/UC_logo.png)
