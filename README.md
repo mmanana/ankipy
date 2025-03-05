@@ -15,4 +15,4 @@ This project is partially funded by the Universidad de Cantabria (Programa de Pr
 
 
 
-# ![](./images/UC_logo.png)
+<img src="./images/UC_logo.png" alt="UC Logo" width="200">
