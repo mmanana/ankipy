@@ -15,5 +15,13 @@ Step-by-Step Procedure:
 This project is partially funded by the Universidad de Cantabria (Programa de Proyectos de Innovación Docente 2024).
 
 
+### Contributors
+Mario Mañana
+Alboerto Arroyo
+Alberto Laso
+Raquel Martínez
+Sergio Bustamante
+Eugenio Sainz
 
+Department of Electrical and Energy Engineering
 <img src="./images/UC_logo.png" alt="UC Logo" width="200">
