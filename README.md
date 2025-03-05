@@ -11,7 +11,7 @@ Step-by-Step Procedure:
 
 3. After running the script, you will obtain a .csv file in the required format for Anki import.
 
-This project is partially funded by the Universidad de Cantabria (Programa de Proyectos de Innovación Docente).
+This project is partially funded by the Universidad de Cantabria (Programa de Proyectos de Innovación Docente 2024).
 
 
 # ![](./images/UC_logo.png)
