@@ -1,4 +1,5 @@
-# <img src="./images/ankipy.png" alt="UC Logo" width="100"> Python Library for Creating and Managing Anki Decks
+# <img src="./images/ankipy.png" alt="Ankipy" width="100">  **ANKIPY**
+## Python Library for Creating and Managing Anki Decks
 
 
 This notebook is dedicated to the collaborative creation of Anki decks using an Excel file.
