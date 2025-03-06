@@ -17,7 +17,7 @@ This project is partially funded by the Universidad de Cantabria (Programa de Pr
 
 ### Contributors
 Mario Mañana    
-Alboerto Arroyo    
+Alberto Arroyo    
 Alberto Laso    
 Raquel Martínez    
 Sergio Bustamante    
